@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4D9E53962B10CD70006A56A0 /* kitchenwizardApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9E53952B10CD70006A56A0 /* kitchenwizardApp.swift */; };
-		4D9E53982B10CD70006A56A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9E53972B10CD70006A56A0 /* ContentView.swift */; };
+		4D9E53982B10CD70006A56A0 /* MyKitchenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9E53972B10CD70006A56A0 /* MyKitchenView.swift */; };
 		4D9E539A2B10CD72006A56A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D9E53992B10CD72006A56A0 /* Assets.xcassets */; };
 		4D9E539D2B10CD72006A56A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D9E539C2B10CD72006A56A0 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		4D9E53922B10CD70006A56A0 /* kitchenwizard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kitchenwizard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D9E53952B10CD70006A56A0 /* kitchenwizardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kitchenwizardApp.swift; sourceTree = "<group>"; };
-		4D9E53972B10CD70006A56A0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4D9E53972B10CD70006A56A0 /* MyKitchenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyKitchenView.swift; sourceTree = "<group>"; };
 		4D9E53992B10CD72006A56A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D9E539C2B10CD72006A56A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				4D9E53952B10CD70006A56A0 /* kitchenwizardApp.swift */,
-				4D9E53972B10CD70006A56A0 /* ContentView.swift */,
+				4D9E53972B10CD70006A56A0 /* MyKitchenView.swift */,
 				4D9E53992B10CD72006A56A0 /* Assets.xcassets */,
 				4D9E539B2B10CD72006A56A0 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D9E53982B10CD70006A56A0 /* ContentView.swift in Sources */,
+				4D9E53982B10CD70006A56A0 /* MyKitchenView.swift in Sources */,
 				4D9E53962B10CD70006A56A0 /* kitchenwizardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
